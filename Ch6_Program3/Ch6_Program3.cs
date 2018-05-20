@@ -9,6 +9,7 @@ namespace Ch6_Program3
 {
     class Ch6_Program3 : CT
     {
+        //DONT FORGET TO ADD COMMENTS
         static void Main(string[] args)
         {
             Header(out CT.LengthOfTopLine, "Ch.6 Program 3",
